@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <!-- Samsung Galaxy J5 2015 -->
+        <j5lte>
+            <Filename>toxyc-j5lte-20180611-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=890278863836290993</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description="">https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j5lte_changelog.xml</ChangelogUrl>
+            <MaintainerUrl
+                id="maintainer"
+                title="JBCDroid"
+                description="">https://forum.xda-developers.com/member.php?u=5175926</MaintainerUrl>
+        </j5lte>
+        <!-- Leeco Le Pro 3 -->
+        <ZL1>
+            <Filename>toxyc-ZL1-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </ZL1>
+        <!-- Lenovo Vibe K5 Plus -->
+        <A6020>
+            <Filename>toxyc-A6020-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </A6020>
+        <!-- Motorola Moto E 2015 LTE -->
+        <surnia>
+            <Filename>toxyc-surnia-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </surnia>
+        <!-- Motorola Moto G 2014 -->
+        <titan>
+            <Filename>toxyc-titan-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </titan>
+        <!-- Motorola Moto G 2015 -->
+        <osprey>
+            <Filename>toxyc-osprey-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </osprey>
+        <!-- Motorola Moto G4 -->
+        <athene>
+            <Filename>toxyc-athene-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </athene>
+        <!-- Motorola Moto G5 Plus -->
+        <potter>
+            <Filename>toxyc-potter-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </potter>
+        <!-- Motorola Moto G5s Plus -->
+        <sanders>
+            <Filename>toxyc-sanders-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </sanders>
+        <!-- Oneplus Oneplus 3/3T -->
+        <oneplus3>
+            <Filename>toxyc-oneplus3-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </oneplus3>
+        <!-- Oneplus Oneplus 5 -->
+        <cheeseburger>
+            <Filename>toxyc-cheeseburger-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </cheeseburger>
+        <!-- Oneplus Oneplus 5T -->
+        <dumpling>
+            <Filename>toxyc-dumpling-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </dumpling>
+        <!-- Xiaomi Redmi 3S Prime -->
+        <land>
+            <Filename>toxyc-land-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </land>
+        <!-- Xiaomi Redmi 4A -->
+        <rolex>
+            <Filename>toxyc-rolex-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </rolex>
+        <!-- Xiaomi Redmi Note 3 -->
+        <kenzo>
+            <Filename>toxyc-kenzo-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </kenzo>
+        <!-- Xiaomi Redmi Note 4/4X -->
+        <mido>
+            <Filename>toxyc-mido-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </mido>
+        <!-- Xiaomi Mi 5s -->
+        <capricorn>
+            <Filename>toxyc-capricorn-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </capricorn>
+        <!-- Zuk Z2 Plus -->
+        <z2_plus>
+            <Filename>toxyc-z2_plus-20180000-v1.0-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </z2_plus>
+    </Stable>
+</SlimOTA>
