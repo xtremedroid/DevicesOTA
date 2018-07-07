@@ -199,11 +199,11 @@
             </tissot>
   
 	    <santoni>
-                  <maintainer>Jyotiraditya Panda</maintainer>
+                  <maintainer>Jyotiraditya Panda (XO)</maintainer>
                   <devicename>Xiaomi Redmi 4 (Santoni)</devicename>
-                  <filename>toxyc-santoni-20180628-v1.0-OFFICIAL</filename>
+                  <filename>toxyc-santoni-20180707-v2.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
-                  <download></download>
+                  <download>https://www.androidfilehost.com/?fid=5862345805528041789</download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/santoni_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum></forum>
